@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Firstweb\Firstweb\bin\Debug\Firstweb.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Firstweb\Firstweb\bin\Debug\Firstweb.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Firstweb\Firstweb\bin\Debug\Firstweb.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Firstweb\Firstweb\obj\Debug\Firstweb.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Firstweb\Firstweb\obj\Debug\Firstweb.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Firstweb\Firstweb\obj\Debug\Firstweb.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Firstweb\Firstweb\obj\Debug\Firstweb.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Firstweb\Firstweb\obj\Debug\Firstweb.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Firstweb\Firstweb\obj\Debug\Firstweb.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Firstweb\Firstweb\obj\Debug\Firstweb.Form2.resources
